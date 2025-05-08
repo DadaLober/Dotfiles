@@ -85,11 +85,11 @@ truncation_symbol = "…/"
 [git_branch]
 symbol = ""
 style = "bg:kurisu_white"
-format = '[[ $symbol $branch ](fg:kurisu_dark bg:kurisu_accent)]($style)'
+format = '[[ $symbol $branch ](fg:kurisu_light bg:kurisu_accent)]($style)'
 
 [git_status]
 style = "bg:kurisu_white"
-format = '[[($all_status$ahead_behind )](fg:kurisu_dark bg:kurisu_accent)]($style)'
+format = '[[($all_status$ahead_behind )](fg:kurisu_light bg:kurisu_accent)]($style)'
 
 [nodejs]
 symbol = ""
