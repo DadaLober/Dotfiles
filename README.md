@@ -28,7 +28,7 @@ Uses Catppuccin Mocha theme throughout.
 ## Dependencies
 
 ```bash
-sudo pacman -S hyprland waybar kitty wofi hyprlock hypridle brightnessctl pulseaudio pavucontrol playerctl starship ttf-jetbrains-mono-nerd
+sudo pacman -S hyprland waybar kitty wofi nvim hyprlock hypridle brightnessctl pulseaudio pavucontrol playerctl starship ttf-jetbrains-mono-nerd
 ```
 
 AUR packages:
