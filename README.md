@@ -21,7 +21,7 @@ stow */
 - **Hyprlock/Hypridle** - Screen lock and idle management
 - **SwayNC** - Notifications
 - **Starship** - Shell prompt
-- - **Neovim** - Text Editor
+- **Neovim** - Text Editor
 
 Uses Catppuccin Mocha theme throughout.
 
